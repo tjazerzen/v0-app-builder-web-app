@@ -1,0 +1,19 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment variables
+.env.local
+.env.*
+
+# TypeScript cache
+.tsbuildinfo
+
+# kbs
+.kbs
+
+.env
